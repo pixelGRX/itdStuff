@@ -2,7 +2,7 @@
 // ==UserScript==
 // @name         Rabotyaga
 // @namespace    http://tampermonkey.net/
-// @version      0.0.7
+// @version      0.0.8
 // @description  goroxels.ru (пиксели покруче)
 // @author       Gorox
 // @match        https://pixel.xn--d1ah4a.com/
@@ -19,7 +19,7 @@
 // ==/UserScript==
 
 (function () {
-  const URL = 'https://raw.githack.com/pixelGRX/itdStuff/main/worker.min.js?v=' + Date.now();
+  const URL = 'https://raw.githubusercontent.com/pixelGRX/itdStuff/main/worker.min.js?v=' + Date.now();
 
   GM_xmlhttpRequest({
     method: 'GET',
