@@ -11,6 +11,7 @@
 // @grant        GM_getValue
 // @grant        GM_xmlhttpRequest
 // @connect      raw.githack.com
+// @connect      raw.githubusercontent.com
 // @connect      trycloudflare.com
 // @updateURL    https://raw.githack.com/pixelGRX/itdStuff/main/loader.meta.js
 // @downloadURL  https://raw.githack.com/pixelGRX/itdStuff/main/loader.user.js
