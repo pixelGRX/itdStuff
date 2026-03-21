@@ -2,7 +2,7 @@
 // ==UserScript==
 // @name         Rabotyaga
 // @namespace    http://tampermonkey.net/
-// @version      0.0.5
+// @version      0.0.6
 // @description  goroxels.ru (пиксели покруче)
 // @author       Gorox
 // @match        https://pixel.xn--d1ah4a.com/
